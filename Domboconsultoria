@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dombo Consultória</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Dombo Consultória</h1>
+    <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#servicos">Serviços</a>
+      <a href="#depoimentos">Depoimentos</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h2>Vendemos estratégias, geramos resultados</h2>
+    <p>Juliana Dombo – Consultora Comercial | Estratégias Digitais</p>
+    <button>Saiba Mais</button>
+  </section>
+
+  <!-- Outras secções: Sobre, Serviços, Depoimentos, Contacto -->
+  
+  <footer>
+    <p>© 2026 Dombo Consultória. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
